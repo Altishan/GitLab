@@ -17,4 +17,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, DisplayAndyActivity.class);
         startActivity(intent);
     }
+
+    public void displayDanielActivity(View view) {
+        Intent intent2 = new Intent(this, DisplayDanielActivity.class);
+        startActivity(intent2);
+    }
 }
