@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitLab</string>
+    <string name="andy_button">Andy</string>
+    <string name="andy_activity">Wow this displays a thing!</string>
+</resources>
