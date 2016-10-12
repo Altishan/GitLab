@@ -2,4 +2,6 @@
     <string name="app_name">GitLab</string>
     <string name="andy_button">Andy</string>
     <string name="andy_activity">Wow this displays a thing!</string>
+    <string name="daniel_button">Daniel</string>
+    <string name="daniel_activity">Display Daniel Message!!</string>
 </resources>
