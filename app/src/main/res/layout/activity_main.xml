@@ -20,4 +20,9 @@
         android:layout_height="wrap_content"
         android:text="@string/daniel_button"
         android:onClick="displayDanielActivity"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/casey_button"
+        android:onClick="displayCaseyActivity"/>
 </LinearLayout>
